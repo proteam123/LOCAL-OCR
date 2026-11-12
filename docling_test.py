@@ -1,7 +1,7 @@
 import torch
 import docling
 import easyocr
-
+import dyobdc
 print("Docling installed successfully")
 print("EasyOCR installed successfully")
 print("PyTorch:", torch.__version__)
